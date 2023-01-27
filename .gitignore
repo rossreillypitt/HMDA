@@ -1,0 +1,5 @@
+*.csv
+*.xlsx
+*.csvt.txt
+*.txt
+env/
